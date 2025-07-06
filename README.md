@@ -63,3 +63,9 @@ Performance was acceptable across all parameters
 - **Focus Area**: Machine Learning in Environmental Monitoring  
 
 ---
+
+Contact
+
+Trainer: Raghunandan M S 
+
+From: Edunet Foundation - Skills4Future
